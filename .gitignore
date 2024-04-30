@@ -1,3 +1,23 @@
+### Mac ###
+.DS_Store
+mvnw
+mvnw.cmd
+
+
+### Git ###
+*.orig
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Maven ###
+work/
+target/
+classes/
+
 # Compiled class file
 *.class
 
